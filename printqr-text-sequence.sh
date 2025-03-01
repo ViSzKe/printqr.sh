@@ -1,5 +1,5 @@
 # This file is part of printqr.sh: bash script for generating and printing qr codes
-# Copyright (C) 2025-  Vilgot Szasz Kero
+# Copyright (C) 2024-2025  Vilgot Szasz Kero
 # This program comes with ABSOLUTELY NO WARRANTY; for details see COPYRIGHT.txt
 
 
